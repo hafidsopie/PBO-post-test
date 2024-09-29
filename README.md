@@ -1,3 +1,8 @@
+# POST TES 1
+# NAMA : MUHAMMAD HAFIDH SHOVI
+# NIM 2309116048
+
+# STUDI KASUS MANAJEMEN PERUSAHAAN KPOP
 # a. Latar Belakang
 Perusahaan hiburan KPOP memiliki banyak artis yang terdiri dari artis solo maupun grup. Perusahaan harus mengelola data para artis, mulai dari penambahan, penghapusan, hingga pembaruan data artis. Data yang harus dikelola meliputi nama artis, umur, dan grup tempat artis tersebut bernaung. Untuk mengatasi masalah manajemen data artis ini, sebuah aplikasi manajemen artis berbasis konsol dibangun. Aplikasi ini memungkinkan perusahaan untuk melakukan CRUD (Create, Read, Update, Delete) terhadap data artis dengan mudah.
 
