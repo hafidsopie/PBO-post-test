@@ -51,7 +51,7 @@ setelah itu data dari artis yang diinputkan akan terbarui.
 
 gambar tersebut merupakan gambar menu keluar dari program 
 
-# c penutup
+# c. penutup
 
 Dengan adanya fitur CRUD (Create, Read, Update, Delete), perusahaan dapat dengan mudah menambahkan, menampilkan, memperbarui, dan menghapus data artis sesuai kebutuhan.
 
